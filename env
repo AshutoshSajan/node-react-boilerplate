@@ -1,0 +1,5 @@
+# Add all environment variables in this file.
+# Rename the file to .env and add it to gitignore file in your project.
+
+JWT_SECRET=write_your_jwt_secret
+MONGO_URI=write_your_database_URI
